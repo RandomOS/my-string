@@ -1,5 +1,5 @@
 /*
- * ÊµÏÖStringÀà
+ * å®ç°Stringç±»
  * 2012-07-30
  */
 #include <iostream>

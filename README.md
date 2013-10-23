@@ -1,5 +1,5 @@
-# Description
+## Description
 A personal implement of string in STL.
 
-# Compile
+## Compile
     g++ string.cpp -o string
