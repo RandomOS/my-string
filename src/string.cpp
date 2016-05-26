@@ -1,5 +1,5 @@
 /*
- * 实现String类
+ * String Class
  * 2012-07-30
  */
 #include <iostream>

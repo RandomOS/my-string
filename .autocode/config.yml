@@ -1,7 +1,0 @@
-name: RandomOS/my-string
-author:
-  name: RandomOS
-  email: gyqmstc@gmail.com
-  url: 'http://blog.randomk.org'
-copyright: 2015 RandomOS
-description: A personal implement of string in STL.
